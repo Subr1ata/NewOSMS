@@ -1,0 +1,13 @@
+Goal:- Increase the overall structure level for Customers submitting support tickets through the website.
+Objective:- Implement a new online ticketing system by August1 to achieve ticket response times of no more than 1 hour.
+Implementation technique:- 1)Project planning:- On successfull registration of customer, the request will go to admin, When
+						admin approves/accept the request, one technician support will handover for
+						that particular request.
+			   2)Assign Resources:- For particular service some resources will be assigned to the technician, so 
+						that work should finish on first visit. 
+			   3)Create Timeline:- Specific time is assigned to customer for their work should done within 
+						some provided time constraint.
+			   4)Determine (Dependencies,Critical Path,Issues,Risks,Resources):- It is efficient in determining
+					dependencies, crirical path, issues, risks and resources.
+			   5)Breakdown Deliverables:- Divide complex task/activity into some parts, so it can be execute in
+						      less time span.
